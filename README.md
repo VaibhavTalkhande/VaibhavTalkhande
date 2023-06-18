@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a frontend developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 I'm currently working on... multiplayer Chess project<br><br>🧠 I'm currently learning  react<br><br>👯‍♀️ I'm looking to collaborate on opensource project
+<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br>🧠 I'm currently learning  react<br><br>👯‍♀️ I'm looking to collaborate on opensource project
 
 I am so excited to become a FullStack web Developer by 2024! I love coding in JavaScript and React, it's like solving a puzzle but with endless possibilities. The feeling of creating something from scratch is amazing, and the fact that people can actually use what I make makes it even better!
 
