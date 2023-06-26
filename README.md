@@ -1,10 +1,6 @@
 # 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br>🧠 I'm currently learning  react<br><br>👯‍♀️ I'm looking to collaborate on opensource project
-
-I am so excited to become a FullStack web Developer by 2024! I love coding in JavaScript and React, it's like solving a puzzle but with endless possibilities. The feeling of creating something from scratch is amazing, and the fact that people can actually use what I make makes it even better!
-
-I know there will be challenges ahead, but I'm ready for them. Learning new technologies and constantly improving my skills is all part of the journey. As long as I stay focused and motivated, nothing can stop me.
-
+<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br><br><br>👯‍♀️ I'm looking to collaborate on opensource project
+My Goal for 2023 is to Learn Fullstack
 I want to create websites and applications that are not only functional but also visually stunning. I want to make user experiences that people will remember and come back to. I want to make an impact on the world through technology.
 
 Becoming a FullStack web Developer is no easy feat, but I am determined to reach my goal. With each line of code, I am one step closer to making my dreams a reality.
@@ -41,11 +37,7 @@ Becoming a FullStack web Developer is no easy feat, but I am determined to reach
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavTalkhande&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavTalkhande&icon=0&color=1)](https://visitcount.itsvg.in)
