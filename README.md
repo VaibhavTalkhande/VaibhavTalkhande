@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br><br><br>👯‍♀️ I'm looking to collaborate on opensource project
+<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br><br><br>I'm looking to collaborate on opensource project
 My Goal for 2023 is to Learn Fullstack
 I want to create websites and applications that are not only functional but also visually stunning. I want to make user experiences that people will remember and come back to. I want to make an impact on the world through technology.
 
