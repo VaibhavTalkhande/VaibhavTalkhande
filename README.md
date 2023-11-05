@@ -2,17 +2,8 @@
 <img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 <br><br><br><br>I'm looking to collaborate on opensource project
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VaibhavTalkhande&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=VaibhavT27)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VaibhavTalkhande&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VaibhavTalkhande#2414) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavtalkhande) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-talkhande-82601b16b) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vaibhavtalkhande) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VaibhavT27) 
 
