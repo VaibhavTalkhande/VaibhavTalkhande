@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a fullstack web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 I'm looking to collaborate on opensource project
+<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 I'm learning web
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VaibhavTalkhande&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
