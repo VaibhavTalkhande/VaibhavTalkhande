@@ -26,6 +26,17 @@ Deployed multiple apps with  backends and responsive UI.
 - Delivered  site that helped company attract clients
 
 ---
+## 🚀 Projects
+
+### 🔹 [Stockit]([https://stockit-wine.vercel.app](https://github.com/VaibhavTalkhande/stockit)) — _Retail Management System_
+- Inventory, sales, billing,payment gateway, analytics & Gemini-powered AI insights  
+- Tech: `Next.js`, `MongoDB`, `Electron.js`, `Stripe`, `Node.js`, `Express`
+
+### 🔹 [ShortSentinel](https://github.com/VaibhavTalkhande/shortsentinel) — _Secure URL Shortener with realtime analytics and dashboard_
+- URL analytics, geolocation tracking, exports, real-time graphs  
+- Tech: `React`, `Tailwind`, `PostgreSQL`, `Prisma`, `Socket.io`, `Electron.js`
+
+---
 
 ## 🛠 Tech Stack
 
@@ -46,17 +57,6 @@ Deployed multiple apps with  backends and responsive UI.
 
 ---
 
-## 🚀 Projects
-
-### 🔹 [Stockit](https://stockit-wine.vercel.app) — _Retail Management System_
-- Inventory, sales, billing,payment gateway, analytics & Gemini-powered AI insights  
-- Tech: `Next.js`, `MongoDB`, `Electron.js`, `Stripe`, `Node.js`, `Express`
-
-### 🔹 [ShortSentinel](https://shortsentinel-1.onrender.com) — _Secure URL Shortener with realtime analytics and dashboard_
-- URL analytics, geolocation tracking, exports, real-time graphs  
-- Tech: `React`, `Tailwind`, `PostgreSQL`, `Prisma`, `Socket.io`, `Electron.js`
-
----
 
 ## 🏆 Achievements & Clubs
 
