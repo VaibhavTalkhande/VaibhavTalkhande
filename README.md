@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  <a href="https://www.vaibhavtalkhande.tech"> My Portfolio </a> • 
+  • <a href="https://www.vaibhavtalkhande.tech"> My Portfolio </a> • 
   <a href="mailto:vaibhavtalkhande41@gmail.com">vaibhavtalkhande41@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/vaibhavtalkhande/">LinkedIn</a> • 
   <a href="https://github.com/VaibhavTalkhande">GitHub</a> • 
