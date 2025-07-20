@@ -1,23 +1,111 @@
-# 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/49303222?s=40&v=4"><br><br>I'm a web developer...<br><br><br># Hi, I'm Vaibhav Talkhande! 👋<br><br>👩‍💻 I'm learning web
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaibhavTalkhande&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavTalkhande&limit=5&theme=radical&combine_all_yearly_contributions=true)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-talkhande-82601b16b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VaibhavT27) 
-
-# 💻 Tech Stack , I know and learning:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaibhavTalkhande&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavTalkhande&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavTalkhande&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+<h1 align="center">Hi, I am Vaibhav Talkhande 👋</h1>
+<p align="center">
+  🚀 Full-stack Developer | MERN Stack | Nextjs | Building web apps
+</p>
+<p align="center">
+  <a href="mailto:vaibhavtalkhande41@gmail.com">vaibhavtalkhande41@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/vaibhavtalkhande/">LinkedIn</a> • 
+  <a href="https://github.com/VaibhavTalkhande">GitHub</a> • 
+  📱 +91-9325625918
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavTalkhande&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💼 Profile Summary
+Software developer with hands-on experience building full-stack web applications.  
+Skilled in MERN Stack, Next.js, and integrating third-party APIs.  
+Deployed multiple apps with  backends and responsive UI.
+
+---
+
+## 💼 Experience
+
+### Web Developer Intern @ QuickFusion Innovations _(Jan 2025 – Feb 2025)_
+- Developed 2+ responsive client websites using **React.js** and **Tailwind CSS**
+- Revamped UI/UX for faster load time and better SEO
+- Delivered  site that helped company attract clients
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`JavaScript`, `TypeScript`, `Java`
+
+**Frontend**  
+`Next.js`, `React.js`, `Redux`, `Tailwind CSS`, `Material-UI`, `shadcn/ui`, `HTML`, `CSS`
+
+**Backend**  
+`Node.js`, `Express.js`, `Prisma`, `Zod`
+
+**Database**  
+`MongoDB`, `PostgreSQL`, `SQL`
+
+**Other Tools**  
+`Docker`, `Git`, `Postman`, `Linux`
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Stockit](https://stockit-wine.vercel.app) — _Retail Management System_
+- Inventory, sales, billing,payment gateway, analytics & Gemini-powered AI insights  
+- Tech: `Next.js`, `MongoDB`, `Electron.js`, `Stripe`, `Node.js`, `Express`
+
+### 🔹 [ShortSentinel](https://shortsentinel-1.onrender.com) — _Secure URL Shortener with realtime analytics and dashboard_
+- URL analytics, geolocation tracking, exports, real-time graphs  
+- Tech: `React`, `Tailwind`, `PostgreSQL`, `Prisma`, `Socket.io`, `Electron.js`
+
+---
+
+## 🏆 Achievements & Clubs
+
+- **Technical Head**, GFG GHRCEMN Club  
+  Built & maintained club website using React, led technical events
+
+- **Web Developer**, GDSC GHRIET  
+  Worked on club website using React + TypeScript
+
+---
+
+## 📚 Education
+
+- **GH Raisoni College of Engineering, Nagpur**  
+  _B.Tech in Computer Science_ (2022–2026)  
+  **CGPA**: 8.88
+
+- **The Royal Gondwana Public School, Nagpur**  
+  _CBSE 12th_ (2020–2021) – 86.6%
+
+- **Vimaltai Tidke Convent Atrey Layout, Nagpur**  
+  _CBSE 10th_ (2018–2019) – 90%
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavTalkhande&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavTalkhande&theme=radical&hide_border=false" width="47%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavTalkhande&theme=radical&layout=compact&hide_border=false" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavTalkhande&theme=radical&margin-w=5" width="47%" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-talkhande-82601b16b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavTalkhande)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VaibhavT27)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhavtalkhande)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/vaibhavtalkhande)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VaibhavTalkhande#2414)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VaibhavTalkhande&icon=0&color=1" />
+</p>
