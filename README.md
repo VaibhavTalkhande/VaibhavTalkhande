@@ -19,15 +19,6 @@ Skilled in MERN Stack, Next.js, and integrating third-party APIs.
 Deployed multiple apps with  backends and responsive UI.
 
 ---
-
-## 💼 Experience
-
-### Web Developer Intern @ QuickFusion Innovations _(Jan 2025 – Feb 2025)_
-- Developed 2+ responsive client websites using **React.js** and **Tailwind CSS**
-- Revamped UI/UX for faster load time and better SEO
-- Delivered  site that helped company attract clients
-
----
 ## 🚀 Projects
 
 ### 🔹 [Stockit]([https://stockit-wine.vercel.app](https://github.com/VaibhavTalkhande/stockit)) — _Retail Management System_
